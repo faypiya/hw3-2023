@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 10px;
+    padding: 10px 0px 0px 10px;
 }
 
 img {
@@ -43,7 +43,7 @@ div {
 }
 
 .red {
-    background-color: #ff000f;
+    background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
     border-left: 5px solid #ffffff; 
@@ -97,5 +97,5 @@ footer {
 footer p {
     font-size: 20px; 
     text-align: right; 
-    padding: 15px 15px 15px 0; 
+    padding: 15px 15px 15px 0px; 
 }
